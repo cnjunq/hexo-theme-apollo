@@ -1,12 +1,13 @@
 menu:
-    Blog: /
+    Home: https://nginxunit.cn
+    Post: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+#    Weibo: http://weibo.com/sunchongsheng
+#    GitHub: https://github.com/pinggod
     Rss: /atom.xml
 
-favicon: /favicon.png
-logo: /favicon.png
+favicon: /nginx-favicon.png
+logo: /nginx-favicon.png
 
 # Comment
 # e.g disqus: seansun
@@ -18,4 +19,4 @@ duoshuo:
 # ga: UA-xxxxxxxx-x
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2017
